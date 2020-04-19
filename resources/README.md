@@ -1,2 +1,1 @@
-# D365BC-BasicAL
-For Dynamics 365 Business Central Basic AL
+This app has both Course Management and social media features
